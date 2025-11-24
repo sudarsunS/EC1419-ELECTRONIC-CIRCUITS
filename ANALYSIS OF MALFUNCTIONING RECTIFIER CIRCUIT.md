@@ -5,9 +5,12 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
-<img width="1348" height="954" alt="Screenshot 2025-10-22 180326" src="https://github.com/user-attachments/assets/6279220e-c863-4002-aec3-02607d89b7af" />
+| **Parameter**                        | **Value**    |
+| ------------------------------------ | ------------ |
+| Theoretical Frequency of Oscillation | **1 kHz**    |
+| Practical Frequency of Oscillation   | **0.98 kHz** |
 
 ## GRAPHS
-
+<img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/94bb37d8-ba93-4cd6-9828-a092ba4e1cc3" />
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
